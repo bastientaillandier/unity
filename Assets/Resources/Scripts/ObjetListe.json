@@ -1,0 +1,38 @@
+﻿{
+ "Items":[
+	{
+	"id" : 0x01,
+	"name" : "Pomme",
+	"type" : 0x11,
+	"dégâts" : -50,
+	"price" : 1,
+	"Path" : "Sprites/Items/Pomme",
+	},
+	{
+	"id" : 0x02,
+	"name" : "Bronze Coin",
+	"type" : 0x10,
+	"dégâts" : 0,
+	"price" : 10,
+	"Path" : "Sprites/Items/BronzeCoin",
+	},
+	{
+	"id" : 0x03,
+	"name" : "Silver Coin",
+	"type" : 0x10,
+	"dégâts" : 0,
+	"price" : 100,
+	"Path" : "Sprites/Items/SilverCoin",
+	},
+	{
+	"id" : 0x02,
+	"name" : "Gold Coin",
+	"type" : 0x10,
+	"dégâts" : 0,
+	"price" : 1000,
+	"Path" : "Sprites/Items/GoldCoin",
+	},
+	
+	
+ ]
+}

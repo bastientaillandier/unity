@@ -1,0 +1,6 @@
+﻿{
+"data":[
+{"id":1,"name":"Pomme","type":"11","damage":-50,"price":1,"path":"Sprites/Items/Pomme"},
+{"id":2,"name":"BronzeCoin","type":"11","damage":-50,"price":1,"path":"Sprites/Items/BronzeCoin"}
+]
+}
